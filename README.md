@@ -1,19 +1,19 @@
-# HTML & JavaScript Learning Playlist
+# HTML Learning Playlist
 
-Welcome to the **HTML & JavaScript Learning Playlist** repository! This playlist is designed to help you master the fundamentals of web development, focusing on HTML and JavaScript. Whether you're a beginner or looking to refresh your skills, this resource is for you.
+Welcome to the **HTML Learning Playlist** repository! This playlist is designed to help you master the fundamentals of web development, focusing on HTML and JavaScript. Whether you're a beginner or looking to refresh your skills, this resource is for you.
 
 ---
 
 ## 🎥 Playlist on YouTube  
 Explore my curated video tutorials that break down concepts step by step:  
-[**HTML & JavaScript Playlist**](https://youtube.com/playlist?list=PLq4tqbnLvDtwKxNWFEizngzWJPF7SSe38&si=H0VeVXwe1F-0Qtn7)  
+[**HTML Playlist**](https://youtube.com/playlist?list=PLq4tqbnLvDtwKxNWFEizngzWJPF7SSe38&si=H0VeVXwe1F-0Qtn7)  
 
 ---
 
 ## 📚 Recommended Resources  
-Expand your knowledge with these trusted tutorials:  
+Expand your knowledge with this trusted tutorial:  
 - [W3Schools HTML Tutorial](https://www.w3schools.com/html/)  
-- [W3Schools JavaScript Tutorial](https://www.w3schools.com/js/)  
+  
 
 ---
 
